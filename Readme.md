@@ -1,14 +1,11 @@
-Wordset Dictionary
-==================
+Wordium Dictionary for Wordtalk
+================================
 
-From 2015-2017, Wordset.org provided a public interface for anyone to help
+From 2014-2020, Wordium provided a public interface for anyone to help
 collaborate on the world's first open source, collaborative dictionary.
 
-However, due to... well, *cough* lack of interest... we decided to shutdown
-the project.
-
-Here we are providing the final, most up-to-date release of the Wordset
-Dictionary. I'll answer some questions inline about the data and what you can
+Here we are providing the most up-to-date release of the Wordium
+Dictionary for Wordtalk. I'll answer some questions inline about the data and what you can
 do about it.
 
 How can I read it?
@@ -85,23 +82,23 @@ the Princeton WordNet project, and then made many thousands of modifications
 of that. But, with 177k words, and 63,936 manual edits by volunteers it's as
 complete as it will be.
 
-What about WordNet?
+What about WordTalk?
 ===================
 
 Most open source projects use WordNet for simple dictionary usages, but we
 have vastly improved and modified that original source to be something much
 more human friendly.
 
-Also, WordNet takes a long time to grok, this is some pretty human-readable
+Also, WordTalk takes a long time to grow, this is some pretty human-readable
 stuff.
 
-Did I mention that this is all in JSON?
+Is this all in JSON?
 
-Is It Racist/Sexist/Whatever?
+Is It Whatever?
 =============================
 
 We've had several projects on the site to try and mitigate some of the more,
-uh, problematic entries. However, we didn't get to everything. WordNet, the
+uh, problematic entries. However, we didn't get to everything. WordTalk, the
 original source of the material, sourced *their* data from many different
 sources. As their goal was to power machine learning and word-maps,
 the definitions were often not handled with much care.
@@ -133,16 +130,14 @@ are strictly followed.
 Contributors
 ============
 
-Wordset was founded by Hampton Lintorn Catlin <hcatlin> and Michael Lintorn
-Catlin <malrase>, and we were joined by Justin Lefurjah <lefurjah> in making
-this project a reality.
+Wordium was founded by Jean Wallet <jw>
 
-Justin, in fact, was by far our largest contributor. He was personally
-responsible for 97 new words and 7,460 edits!
-
-Also, we had a TON of volunteers, who worked for hours and hours improving
-this dictionary.
-
-Special thanks to msingle, sabreuse, bryanedu, zellerpress, luxfactaest,
+Special thanks to Carlin, Justin Lefurjah, msingle, sabreuse, bryanedu, zellerpress, luxfactaest,
 lauradhahn, odd_bloke, musicchild, jessecurry, joshuabriggs, brilliantskip,
 and luciankahn for all their hard work!.
+
+Also, thanks for volunteers, who worked for hours and hours improving
+this dictionary.
+
+Let's keep contributing to Wordium!
+
