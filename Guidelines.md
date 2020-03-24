@@ -1,6 +1,6 @@
 # Guidelines
 
-Wordset is a structured dictionary. As such, we try to follow these guidelines to create a standardized resource. Our overall goal is usability.
+Wordium is a structured dictionary. As such, we try to follow these guidelines to create a standardized resource. Our overall goal is usability.
 
 ## Overall
 
